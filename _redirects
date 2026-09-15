@@ -1,0 +1,7 @@
+# Existing Cloudflare dashboard rules continue to handle www, HTTP, and pages.dev.
+# Do NOT add a blanket /* redirect here: it would redirect the canonical site too.
+# These aliases preserve any service links that may have been shared informally.
+/web-design /services/web-design/ 301
+/data-analytics /services/data-analytics/ 301
+/website-management /services/website-management/ 301
+/field-operations /campaigns/ 301

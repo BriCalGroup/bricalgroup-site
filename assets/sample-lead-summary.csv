@@ -1,0 +1,5 @@
+dataset,source,inquiries,qualified_leads_including_booked,booked_jobs,inquiry_to_booking_rate
+SYNTHETIC DEMONSTRATION - NOT CLIENT DATA,Organic search,18,12,8,0.444444
+SYNTHETIC DEMONSTRATION - NOT CLIENT DATA,Paid search,12,6,2,0.166667
+SYNTHETIC DEMONSTRATION - NOT CLIENT DATA,Referral,10,8,5,0.500000
+SYNTHETIC DEMONSTRATION - NOT CLIENT DATA,Social,8,5,2,0.250000
